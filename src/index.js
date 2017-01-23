@@ -3,7 +3,7 @@
 import React from 'react';
 
 function Main() {
-    return <div>React & Electron Test with ES6</div>;
+    return <div>Hello World!</div>;
 }
 
 export default Main
