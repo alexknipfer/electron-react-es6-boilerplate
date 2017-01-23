@@ -1,5 +1,6 @@
 # electron-react-es6-boilerplate
-A minimalistic boiler plate for React and Electron (ES6 support).
+A minimalistic boiler plate for integrating React with Electron applications. Includes [React Router](https://github.com/ReactTraining/react-router), 
+[MobX](https://github.com/mobxjs/mobx), and [Electron Packager](https://github.com/electron-userland/electron-packager).
 
 ## Install
 ```bash
